@@ -1,5 +1,6 @@
 # Data Science & Analytics 
 
--1
-2
-3
+### Education
+Statistics, MSc
+Business Mathematics, MSc
+Mathematics, BSc
