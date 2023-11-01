@@ -11,5 +11,5 @@
 - More Coming Soon
 
 ## Contact
--Phone Number: | +30 6951503654
-- [LinkedIn]([https://www.linkedin.com/in/dimitris-bouttner/)
+-Phone Number | +30 6951503654
+-Social Networks | [LinkedIn]([https://www.linkedin.com/in/dimitris-bouttner/)
