@@ -2,5 +2,7 @@ is_project_page: false
 title: Dimitris Bouttner
 show_downloads: false
 logo: /assets/img/bioface.jpg
+#description
 Test 1
+[test 2](https://google.com/)
 theme: jekyll-theme-minimal
