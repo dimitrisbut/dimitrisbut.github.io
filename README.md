@@ -7,4 +7,5 @@
 
 ## Projects
 - Ranking Formula One Contestants with the PageRank Algorithm
+- Using Spectral Clustering to improve the accuracy of Wine Classification
 - More Coming Soon
