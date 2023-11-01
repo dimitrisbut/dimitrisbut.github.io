@@ -6,9 +6,13 @@
 - Mathematics, BSc | National and Kapodistrian University of Athens
 
 ## Projects
-- Ranking Formula One Contestants with the PageRank Algorithm
-- Using Spectral Clustering to improve the accuracy of Wine Classification
-- More Coming Soon
+### Ranking Formula One Contestants with the PageRank Algorithm
+Used PageRank to rank the contestants of the Formula One Championship based on their finish order and compared the results to the original ranking of the Champsionship.
+[View Colab](https://colab.research.google.com/drive/1sqXpnwSDDlQ9p3A1w7tUrC36ovjG1F64#scrollTo=6DizOKTf_NVA)
+
+### Using Spectral Clustering to classify wine based on origin
+Applied Spectral Clustering to wine data and imporved the accuracy of different predictive models.
+### More Coming Soon
 
 ## Technical Skills
 - Python
