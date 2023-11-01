@@ -1,10 +1,10 @@
 # Data Science & Analytics 
 
-### Education
+## Education
 - Statistics, MSc
 - Business Mathematics, MSc
 - Mathematics, BSc
 
-### Projects
+## Projects
 - Ranking Formula One Contestants with the PageRank Algorithm
 - More Coming Soon
