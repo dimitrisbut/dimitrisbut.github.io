@@ -9,3 +9,7 @@
 - Ranking Formula One Contestants with the PageRank Algorithm
 - Using Spectral Clustering to improve the accuracy of Wine Classification
 - More Coming Soon
+
+## Contact
+-Phone Number: | +30 6951503654
+- [LinkedIn]([https://www.linkedin.com/in/dimitris-bouttner/)
