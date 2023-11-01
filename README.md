@@ -13,7 +13,10 @@ Used PageRank to rank the contestants of the Formula One Championship based on t
 
 ### Using Spectral Clustering to classify wine based on origin
 Applied Spectral Clustering to wine data and imporved the accuracy of different predictive models.
-### More Coming Soon
+
+[View Colab](https://colab.research.google.com/drive/1UqiAMdrA7VZK2PLASkfYgyRv367NjFM7?usp=sharing)
+### More Coming Soon! 
+I'm currently editing and uploading projects. Stay tuned!
 
 ## Technical Skills
 - Python
