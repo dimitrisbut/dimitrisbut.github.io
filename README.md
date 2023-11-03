@@ -26,6 +26,7 @@ I'm currently editing and uploading projects. Stay tuned!
 - R
 - Matlab
 - Java
+- Microsoft Excel & PowerPoint
 
 ## Contact
 - Phone Number | +30 6951503654
