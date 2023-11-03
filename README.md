@@ -9,6 +9,8 @@
 ### Ranking Formula One Contestants with the PageRank Algorithm
 Used PageRank to rank the contestants of the Formula One Championship based on their finish order and compared the results to the original ranking of the Champsionship.
 
+![Teams Ranking](/assets/img/teams.png)
+
 [View Colab](https://colab.research.google.com/drive/1sqXpnwSDDlQ9p3A1w7tUrC36ovjG1F64#scrollTo=6DizOKTf_NVA)
 
 ### Using Spectral Clustering to classify wine based on origin
