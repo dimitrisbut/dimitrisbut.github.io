@@ -32,4 +32,4 @@ I'm currently editing and uploading projects. Stay tuned!
 
 ## Contact
 - Phone Number | +30 6951503654
-- Social Networks | [LinkedIn]([https://www.linkedin.com/in/dimitris-bouttner/)
+- Social Networks | [LinkedIn]([https://www.linkedin.com/in/dimitris-bouttner/) 
