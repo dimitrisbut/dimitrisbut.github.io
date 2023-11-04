@@ -20,7 +20,6 @@ Applied Spectral Clustering to wine data and imporved the accuracy of different 
 
 [View Colab](https://colab.research.google.com/drive/1UqiAMdrA7VZK2PLASkfYgyRv367NjFM7?usp=sharing)
 ### More Coming Soon! 
-I'm currently editing and uploading projects. Stay tuned!
 
 ## Technical Skills
 - Python
