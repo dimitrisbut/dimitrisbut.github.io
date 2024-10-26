@@ -18,7 +18,6 @@ Applied Spectral Clustering to wine data and imporved the accuracy of different 
 
 ![Wines classification](/assets/img/wines_3d.png)
 
-[View Colab](https://colab.research.google.com/drive/1UqiAMdrA7VZK2PLASkfYgyRv367NjFM7?usp=sharing)
 ### More Coming Soon! 
 
 ## Technical Skills
